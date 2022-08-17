@@ -1,12 +1,12 @@
 {
     "name": "mix",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "main": "index.js",
     "scripts": {
         "build": "echo build mix"
     },
     "dependencies": {
-        "footer": "*",
-        "header": "*"
+        "footer": "^0.0.1",
+        "header": "^0.0.1"
     }
 }
