@@ -2,6 +2,9 @@
     "name": "mix",
     "version": "0.0.0",
     "main": "index.js",
+    "scripts": {
+        "build": "echo build mix"
+    },
     "dependencies": {
         "footer": "*",
         "header": "*"
