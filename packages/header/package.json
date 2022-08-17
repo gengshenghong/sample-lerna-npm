@@ -1,7 +1,8 @@
 {
-    "name": "header",
+    "name": "@test-only/header",
     "version": "0.0.1",
     "main": "index.js",
+    "license": "MIT",
     "scripts": {
         "build": "echo build header"
     }

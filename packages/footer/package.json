@@ -1,7 +1,8 @@
 {
-    "name": "footer",
+    "name": "@test-only/footer",
     "version": "0.0.1",
     "main": "index.js",
+    "license": "MIT",
     "scripts": {
         "build": "echo build footer"
     }

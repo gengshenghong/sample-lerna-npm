@@ -1,7 +1,8 @@
 {
-    "name": "mix",
+    "name": "@test-only/mix",
     "version": "0.0.1",
     "main": "index.js",
+    "license": "MIT",
     "scripts": {
         "build": "echo build mix"
     },
